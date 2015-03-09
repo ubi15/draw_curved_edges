@@ -20,12 +20,12 @@ Image settings:
 '''
 
 VaryNodesSize = True
-s_min = 4.
-s_max = 10.
+s_min = 6.
+s_max = 12.
 
 VaryEdgesSize = True
-min_ew = 2
-max_ew = 10
+min_ew = 2.
+max_ew = 8.
 
 '''
     min_d sets the minimum distance of an edge from the circle and
@@ -93,7 +93,7 @@ w_min = min(ew)
 w_max = max(ew)
 ec = [plt.cm.Blues(.5 + .45*(float(W)/w_max)) for W in ew]
 
-ns = [s_min*(1 + s_max*k/k_max) for k in degrees]
+ns = [s_min*(1 + (s_max-s_min)*k/k_max) for k in degrees]
 nc = [plt.cm.Oranges(.75) if k == k_max-1 else plt.cm.Blues(.6)\
       for k in degrees]
 
