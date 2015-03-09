@@ -10,6 +10,10 @@ axis of the connecting line.
 Some features are tunable as the possibility to change (or not) the nodes and 
 edges size.
 
+A little sample of what "draw_curved_edges" can do is the following image!
+
+![](https://github.com/github/training-kit/blob/master/images/professortocat.png)
+
 
 There is still a lot to do so as to make this script more powerful and 
 flexible, specifically:
