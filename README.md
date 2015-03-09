@@ -17,4 +17,5 @@ flexible, specifically:
 - set colors and sizes of nodes and edges in the initial settings;
 - set the keyword used to compute both the nodes and edges size;
 - adapt the calculation of the edge shape to a generic layout fo the nodes;
+- comment more and better the piece of code;
 - etc. (end of thinking capacity);
