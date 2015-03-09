@@ -10,7 +10,16 @@ axis of the connecting line.
 Some features are tunable as the possibility to change (or not) the nodes and 
 edges size.
 
-A little sample of what "draw_curved_edges" can do is the following image!
+Usage is straightforward: just install python2, numpy, matplotlib and networkx 
+and prepare a file with the following syntax (with no header lines):
+
+SourceID   TargetID   EdgeWeight
+
+and you're ready to go!
+
+
+A little sample of what 'draw_curved_edges' can do when reading the attached 
+file edge_list.dat is the following image!
 
 ![](https://github.com/ubi15/draw_curved_edges/blob/master/My_Graph.jpg)
 
