@@ -32,3 +32,11 @@ flexible, specifically:
 - adapt the calculation of the edge shape to a generic layout fo the nodes;
 - comment more and better the piece of code;
 - etc. (end of thinking capacity);
+
+
+#License
+Written by Enrico Ubaldi <enricoubaldi@gmail.com>
+Please refer to this page in case you use this piece of code to show your cool graphs.
+
+
+
