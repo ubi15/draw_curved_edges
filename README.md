@@ -1,4 +1,4 @@
-# draw_curved_edges
+## Draw a network with curved edges
 
 A simple and not (yet) flexible script to plot a network in a circular layout 
 and with curved edges using matplotlib and networkx.
@@ -18,8 +18,8 @@ SourceID   TargetID   EdgeWeight
 and you're ready to go!
 
 
-A little sample of what 'draw_curved_edges' can do when reading the attached 
-file edge_list.dat is the following image!
+A little sample of what *draw_curved_edges* can do when reading the attached 
+file *edgelist.dat* is the following image!
 
 ![](https://github.com/ubi15/draw_curved_edges/blob/master/My_Graph.jpg)
 
