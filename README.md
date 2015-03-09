@@ -12,7 +12,7 @@ edges size.
 
 A little sample of what "draw_curved_edges" can do is the following image!
 
-![](https://github.com/github/training-kit/blob/master/images/professortocat.png)
+![](https://github.com/ubi15/draw_curved_edges/blob/master/My_Graph.jpg)
 
 
 There is still a lot to do so as to make this script more powerful and 
