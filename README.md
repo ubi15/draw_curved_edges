@@ -21,8 +21,7 @@ and you're ready to go!
 A little sample of what *draw_curved_edges* can do when reading the  
 file *edgelist.dat* in the Examples folder is the following
 
-![](https://github.com/ubi15/draw_curved_edges/blob/master/My_Graph.jpg 
-'Cool image of a cool network')
+![](https://github.com/ubi15/draw_curved_edges/blob/master/My_Graph.jpg)
 
 
 There is still a lot to do so as to make this script more powerful and 
